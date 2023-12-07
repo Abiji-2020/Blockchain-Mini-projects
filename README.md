@@ -1,6 +1,6 @@
-#Blockchain Mini Projects
+# Blockchain Mini Projects
 
-# Decentralized-Voting-System
+## Decentralized-Voting-System
 
 This is the first project on the decentralized Blockchain.
 
